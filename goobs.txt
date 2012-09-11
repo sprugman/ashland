@@ -1,0 +1,14 @@
+name	core	email
+Ben	0	-
+Bill	1	noble@gs.washington.edu
+Eric	1	eric@ranelletti.com
+Gray	0	-
+Jerry	0	-
+John	1	jfernandes111@gmail.com
+Kev	0	-
+Martin	1	MartinP@stanfordalumni.org
+Micah	1	i@micahfreedman.com
+Neil	0	-
+Scot	1	scotgibson@gmail.com
+Tim	1	tmillet@apple.com
+Tyler	1	tcozzens@yahoo.com

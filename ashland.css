@@ -1,0 +1,101 @@
+body         { background-color:white;
+               font-family:arial,helvetica,sans-serif;
+               color:black;
+               margin:0px; }
+     
+a            { color:#006699;
+               text-decoration:none; }
+  
+a:hover      { color:#6699CC;
+               text-decoration:underline; }
+               
+h2	     { font-family:Times,serif; font-size:medium; }
+                    
+.titleBox    { color:#FFFFFF; background-color:#000000; 
+               left:0px; top:0px; 
+               padding-top:8px; padding-right:8px; padding-bottom:8px; padding-left:8px;
+               border-color:#6699CC; 
+	       border-style: solid;
+	       border-width: 0px 0px 3px 0px;}
+               
+.title       { font-family:Arial, Helvetica, sans-serif; font-size:large; font-weight:bold; }
+                
+.secLink     { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px }
+	     
+.tiny        { 
+			font-family:verdana, geneva, arial, helvetica, sans-serif;
+			font-size:10px;
+			font-weight:normal;
+			color:gray;  }
+         
+.smaller     { font-size:smaller }
+
+.here        { 
+			font-family:Arial, Helvetica, sans-serif; 
+			font-size:large; 
+			font-weight:bold;
+			float: right;
+			min-width: 200px;
+			width: 23%;
+			margin-top:20px; /*padding-right:10px;
+			background-color:yellow;*/
+			padding: 0 10px;
+		}
+.edit-mode .here {
+			clear: both;
+			width: 98%;
+			float: none;
+			padding: 0 1%;
+}
+		
+.content     { 
+			float: left;
+			width:55%;
+			min-width: 400px;
+			margin-top:20px;
+			padding-left: 10px; 
+			margin-left: 10px;
+			/*background-color:red;*/
+	       }
+
+.edit-mode .content {
+			float: none;
+			width: 98%;
+			padding: 0 1%;
+			margin: 0;
+}		   
+	       
+.rule        { padding-right:4px;
+               padding-left:4px;
+               /*border-color:#CCCCCC;
+               border-style:solid;
+	       border-width:0px 1px 1px 0px;*/ }
+	       
+textarea     { 
+			font-family:Verdana, Arial, Helvetica, sans-serif; 
+			/* font-size: 10px; */
+			width: 100%;
+			height: 60px;
+             }
+textarea.editShow { height:80px }
+
+.sep         { border-color:#CCCCCC; 
+	       border-style:solid;
+	       border-width:1px 0px 0px 0px;
+	     }
+
+.showyear	{
+     border-top:1px;
+     border-left:0px;
+     border-bottom:0px;
+     border-right:0px;
+     border-style: solid;
+     border-color:#CCCCCC;
+     margin-top:3px;
+     padding-top:1px;
+     margin-bottom:0px;
+}
+.showlist	{
+     margin-top:0px;
+     margin-bottom:0px;
+}

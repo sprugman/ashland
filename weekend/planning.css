@@ -1,0 +1,10 @@
+.even { background-color:#fff }
+.foot { background-color:#777; color:white; font-weight: bold; }
+.header { font-weight:bold; border-bottom: 2px black solid; background-color:#888; color:white; }
+td { border: 1px #aaa solid; padding:2px; text-align:center; font-size:10px;}
+td.level0 { background-color: #ecc; }
+.level1 { }
+.level2 { background-color: #cec; }
+
+select { font-family:verdana; font-size:10px; background-color:lightyellow; color:black; }
+input { font-family:verdana; background-color:yellow; color:black; }

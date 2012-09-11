@@ -1,0 +1,123 @@
+id<->year<->title<->author<->director<->theatre<->ratings<->comments
+0<->1<->Julius Caesar<->William Shakespeare<->Michael Kevin<->Elizabethan<-><->
+1<->1<->Major Barbara<->Bernard Shaw<->Jerry Turner<->Bowmer<-><->
+2<->1<->Other People's Money<->Jerry Sterner<->Henry Woronicz<->Bowmer<-><->
+3<->1<->Our Town<->Thornton Wilder<->James Edmondson<->Bowmer<-><->
+4<->1<->Some Americans Abroad<->Richard Nelson<->Jeff Steitzer<->Swan<-><->
+5<->1<->The First Part of Henry VI<->William Shakespeare<->Pat Patton<->Elizabethan<-><->
+6<->1<->The Merchant of Venice<->William Shakespeare<->Libby Appel<->Bowmer<-><->
+7<->1<->The Taming of the Shrew<->William Shakespeare<->Sandy McCallum<->Elizabethan<-><->
+8<->1<->Two Rooms<->Lee Blessing<->Kirk Boyd<->Swan<-><->
+9<->1<->Woman in Mind<->Alan Ayckbourn<->Cynthia White<->Swan<-><->
+10<->2<->All's Well That Ends Well<->William Shakespeare<->Henry Woronicz<->Bowmer<-><->
+11<->2<->As You Like It<->William Shakespeare<->James Edmondson<->Elizabethan<-><->
+12<->2<->Heathen Valley<->Romulus Linney<->Kirk Boyd<->Swan<-><->
+13<->2<->La Bête<->David Hirson<->Henry Woronicz<->Bowmer<-><->
+14<->2<->Othello<->William Shakespeare<->Jerry Turner<->Elizabethan<-><->
+15<->2<->Restoration<->Edward Bond<->Penny Metropulos<->Swan<-><->
+16<->2<->The Conclusion of Henry VI<->William Shakespeare<->Pat Patton<->Elizabethan<-><->
+17<->2<->The Firebugs<->Max Frisch<->Barbara Damashek<->Swan<-><->
+18<->2<->The Playboy of the Western World<->J. M. Synge<->Fontaine Syer<->Bowmer<-><->
+19<->2<->Toys in the Attic<->Lillian Hellman<->Cynthia White<->Bowmer<-><->
+20<->2<->The Ladies of the Camellias<->Lillian Garrett-Groag<->Kenneth Albers<->Bowmer<-><->
+21<->3<->A Flea in Her Ear<->Georges Feydeau<->Kenneth Albers<->Bowmer<-><->
+22<->3<->A Midsummer Night's Dream<->William Shakespeare<->Cynthia White<->Elizabethan<-><->
+23<->3<->Antony and Cleopatra<->William Shakespeare<->Charles Towers<->Elizabethan<-><->
+24<->3<->Cymbeline<->William Shakespeare<->Henry Woronicz<->Swan<-><->
+25<->3<->Joe Turner's Come and Gone<->August Wilson<->Clinton Turner Davis<->Bowmer<-><->
+26<->3<->Light in the Village<->John Clifford<->Kirk Boyd<->Swan<-><->
+27<->3<->Mad Forest<->Caryl Churchill<->Fontaine Syer<->Swan<-><->
+28<->3<->Richard III<->William Shakespeare<->James Edmondson<->Bowmer<-><->
+29<->3<->The Baltimore Waltz<->Paula Vogel<->Barbara Damashek<->Swan<-><->
+30<->3<->The White Devil<->John Webster<->Jerry Turner<->Elizabethan<-><->
+31<->3<->Lips Together, Teeth Apart<->Terrence McNally<->Penny Metropulos<->Bowmer<-><->
+32<->3<->The Illusion<->Pierre Corneille<->Pat Patton<->Bowmer<-><->
+33<->4<->Hamlet<->William Shakespeare<->Henry Woronicz<->Bowmer<-><->
+34<->4<->Much Ado About Nothing<->William Shakespeare<->Kirk Boyd<->Elizabethan<-><->
+35<->4<->Oleanna<->David Mamet<->Charles Towers<->Swan<-><->
+36<->4<->Tales of the Lost Formicans<->Constance Congdon<->Susan Fenichell<->Swan<-><->
+37<->4<->The Colored Museum<->George C. Wolfe<->Kenny Leon<->Swan<-><->
+38<->4<->The Pool of Bethesda<->Allan Cubitt<->Fontaine Syer<->Bowmer<-><->
+39<->4<->The Rehearsal<->Jean Anouilh<->Henry Woronicz<->Bowmer<-><->
+40<->4<->The Tempest<->William Shakespeare<->Jerry Turner<->Elizabethan<-><->
+41<->4<->The Two Noble Kinsmen<->John Fletcher and William Shakespeare<->Nagle Jackson<->Elizabethan<-><->
+42<->4<->You Can't Take It with You<->Moss Hart and George S. Kaufman<->Peggy Shannon<->Bowmer<-><->
+43<->4<->Fifth of July<->Lanford Wilson<->Clinton Turner Davis<->Bowmer<-><->
+44<->5<->Blood Wedding<->Federico García Lorca<->James Edmondson<->Bowmer<-><->
+45<->5<->Emma's Child<->Kristine Thatcher<->Cynthia White<->Swan<-><->
+46<->5<->From the Mississippi Delta<->Endesha Ida Mae Holland<->Debra Wicks<->Swan<-><->
+47<->5<->Macbeth<->William Shakespeare<->Jerry Turner<->Elizabethan<-><->
+48<->5<->Pravda<->David Hare and Howard Brenton<->Henry Woronicz<->Bowmer<-><->
+49<->5<->Richard II<->William Shakespeare<->Howard Jensen<->Elizabethan<-><->
+50<->5<->The Cure at Troy<->Seamus Heaney<->Tony Taccone<->Swan<-><->
+51<->5<->The Merry Wives of Windsor<->William Shakespeare<->Penny Metropulos<->Elizabethan<-><->
+52<->5<->The Skin of Our Teeth<->Thornton Wilder<->Fontaine Syer<->Bowmer<-><->
+53<->5<->This Day and Age<->Nagle Jackson<->Pat Patton<->Bowmer<-><->
+54<->5<->Twelfth Night<->William Shakespeare<->Melia Bensussen<->Bowmer<-><->
+55<->6<->Arcadia<->Tom Stoppard<->Stephen Hollis<->Bowmer<-><->
+56<->6<->Awake and Sing!<->Clifford Odets<->Debra Wicks<->Bowmer<-><->
+57<->6<->Cabaret Verboten<->Jeremy Lawrence<->Penny Metropulos<->Swan<-><->
+58<->6<->Coriolanus<->William Shakespeare<->Tony Taccone<->Elizabethan<-><->
+59<->6<->Love's Labor's Lost<->William Shakespeare<->Pat Patton<->Elizabethan<-><->
+60<->6<->Moliére Plays Paris<->Nagle Jackson<->James Edmondson<->Bowmer<-><->
+61<->6<->Romeo and Juliet<->William Shakespeare<->René Buch<->Elizabethan<-><->
+62<->6<->Strindberg in Hollywood<->Drury Pifer<->Pat Patton<->Swan<-><->
+63<->6<->The Darker Face of the Earth<->Rita Dove<->Ricardo Khan<->Bowmer<-><->
+64<->6<->The Winter's Tale<->William Shakespeare<->Fontaine Syer<->Bowmer<-><->
+65<->6<->Three Hotels<->Jon Robin Baitz<->Michael J. Hume<->Swan<-><->
+66<->6<->Three Viewings<->Jeffrey Hatcher<->Fontaine Syer<->Swan<-><->
+67<->7<->As You Like It<->William Shakespeare<->Tazewell Thompson<->Elizabethan<-><->
+68<->7<->Blues for an Alabama Sky<->Pearl Cleage<->Timothy Bond<->Swan<-><->
+69<->7<->Death of a Salesman<->Arthur Miller<->Penny Metropulos<->Bowmer<-><->
+70<->7<->King Lear<->William Shakespeare<->Libby Appel<->Bowmer<-><->
+71<->7<->Nora<->Ingmar Bergman; adapted from Henrik Ibsen<->Richard E. T. White<->Swan<-><->
+72<->7<->Pentecost<->David Edgar<->Tony Taccone<->Bowmer<-><->
+73<->7<->Rough Crossing<->Tom Stoppard<->James Edmondson<->Bowmer<-><->
+74<->7<->The Magic Fire<->Lillian Garrett-Groag<->Libby Appel<->Bowmer<-><->
+75<->7<->The Turn of the Screw<->Jeffrey Hatcher<->Michael Donald Edwards<->Swan<-><->
+76<->7<->The Two Gentlemen of Verona<->William Shakespeare<->Kenneth Albers<->Elizabethan<-><->
+77<->7<->Timon of Athens<->William Shakespeare<->Penny Metropulos<->Elizabethan<-><->
+78<->8<->A Midsummer Night's Dream<->William Shakespeare<->Penny Metropulos<->Bowmer<-><->
+79<->8<->A Touch of the Poet<->Eugene O'Neill<->Douglas C. Wager<->Bowmer<-><->
+80<->8<->Cymbeline<->William Shakespeare<->James Edmondson<->Elizabethan<-><->
+81<->8<->Henry IV, Part One<->William Shakespeare<->Michael Donald Edwards<->Elizabethan<-><->
+82<->8<->Les Blancs<->Lorraine Hansberry<->Timothy Bond<->Bowmer<-><->
+83<->8<->Measure for Measure<->William Shakespeare<->Libby Appel<->Swan<-><->
+84<->8<->Sailing to Byzantium<->Sandra Deer<->Chris Coleman<->Swan<-><->
+85<->8<->The Comedy of Errors<->William Shakespeare<->Kenneth Albers<->Elizabethan<-><->
+86<->8<->The School for Scandal<->Richard Brinsley Sheridan<->Lillian Garrett-Groag<->Bowmer<-><->
+87<->8<->Uncle Vanya<->Anton Chekhov<->Libby Appel<->Bowmer<-><->
+88<->8<->Vilna's Got a Golem<->Ernest Joselovitz<->Barbara Damashek<->Swan<-><->
+89<->9<->Chicago<->Maurine Watkins<->Kenneth Albers<->Bowmer<-><->
+90<->9<->El Paso Blue<->Octavio Solis<->Timothy Bond<->Swan<-><->
+91<->9<->Henry IV, Part Two<->William Shakespeare<->Libby Appel<->Elizabethan<-><->
+92<->9<->Much Ado About Nothing<->William Shakespeare<->James Edmondson<->Elizabethan<-><->
+93<->9<->Othello<->William Shakespeare<->Tony Taccone<->Bowmer<-><->
+94<->9<->Pericles<->William Shakespeare<->Laird Williamson<->Bowmer<-><->
+95<->9<->Rosmersholm<->Henrik Ibsen<->Jerry Turner<->Swan<-><->
+96<->9<->Seven Guitars<->August Wilson<->Kenny Leon<->Bowmer<-><->
+97<->9<->The Good Person of Szechuan<->Bertolt Brecht<->Penny Metropulos<->Bowmer<-><->
+98<->9<->The Three Musketeers<->Alexandre Dumas<->Penny Metropulos<->Elizabethan<-><->
+99<->9<->Tongue of a Bird<->Ellen McLaughlin<->Timothy Bond<->Swan<-><->
+100<->10<->Crumbs from the Table of Joy<->Lynn Nottage<->Seret Scott<->Swan<-><->
+101<->10<->Force of Nature<->Steven Dietz<->James Edmondson<->Bowmer<-><->
+102<->10<->Hamlet<->William Shakespeare<->Libby Appel<->Elizabethan<-><->
+103<->10<->Henry V<->William Shakespeare<->Libby Appel<->Bowmer<-><->
+104<->10<->Stop Kiss<->Diana Son<->Loretta Greco<->Swan<-><->
+105<->10<->The Man Who Came to Dinner<->Moss Hart and George S. Kaufman<->Warner Shook<->Bowmer<-><->
+106<->10<->The Night of the Iguana<->Tennessee Williams<->Penny Metropulos<->Bowmer<-><->
+107<->10<->The Taming of the Shrew<->William Shakespeare<->Kenneth Albers<->Elizabethan<-><->
+108<->10<->The Trojan Women<->Euripedes<->Liz Diamond<->Bowmer<-><->
+109<->10<->Twelfth Night<->William Shakespeare<->Timothy Bond<->Elizabethan<-><->
+110<->10<->Wit<->Margaret Edson<->John Dillon<->Swan<-><->
+111<->11<->Enter The Guardsman<->Scott Wentworth (book), Craig Bohmler (music) and Marion Adler (lyrics)<->Peter Amster<->Bowmer<-><->
+112<->11<->The Merry Wives of Windsor<->William Shakespeare<->Lillian Garrett-Groag<->Elizabethan<-><->
+113<->11<->The Tempest<->William Shakespeare<->Penny Metropulos<->Bowmer<-><->
+114<->11<->Merchant of Venice<->William Shakespeare<->Michael Donald Edwards<->Elizabethan<-><->
+115<->11<->Oo-Bla-Dee<->Regina Taylor<->Timothy Bond<->Bowmer<-><->
+116<->11<->Troilus & Cresida<->William Shakespeare<->Kenneth Albers<->Elizabethan<-><->
+117<->11<->Life is a Dream<->author<->dir<->space<-><->
+118<->11<->Three Sisters<->author<->dir<->space<-><->
+119<->11<->The Trip to Bountiful<->author<->dir<->space<-><->
+120<->11<->Fuddy Meers<->author<->dir<->Swan<-><->
+121<->11<->Two Sisters and a Piano<->author<->dir<->space<-><->

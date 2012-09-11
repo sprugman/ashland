@@ -1,0 +1,13 @@
+year<->goobs<->shows<->hilights<->images<->cost
+1990<->0,1,3,5,6,7,8,10<-><->hilight text<->image names<->cost
+1991<->1,5,6,10<-><->hilight text<->image names<->cost
+1992<->5,11<-><->hilight text<->image names<->cost
+1993<-><-><->hilight text<->image names<->cost
+1994<-><-><->hilight text<->image names<->cost
+1995<-><-><->hilight text<->image names<->cost
+1996<-><-><->hilight text<->image names<->cost
+1997<-><-><->hilight text<->image names<->cost
+1998<-><-><->hilight text<->image names<->cost
+1999<-><-><->hilight text<->image names<->cost
+2000<->1,2,4,5,6,7,8,10,11<->102,103,104,105,107,108<-><i>Scot:</i> Do me big boy!<br><i>The Voice:</i> I think you said, "Indianapolis".<->image names<->cost
+2001<->1,2,5,7,8,10,11,12<->111,112,113,114,115,116<->Dank Merkin, The Minivan, Celebrity, Ashopoly<-><->cost
