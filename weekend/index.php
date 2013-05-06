@@ -8,7 +8,7 @@ $ratesAr = fileToArray($datafile);
 $id = (isset($_GET['id'])) ? $_GET['id'] : -1;
 $edit = ($id == -1) ? 0 : 1;
 
-$weekends = listOfWeeks(6, 7, 10, 11);
+$weekends = listOfWeeks(6, 4, 10, 10);
 $rateValues = array(3,2,1,0,-1,-2,-3);
 $rateLabels = array("Love it!", "I'll go", "Might go", "Don't know", "Might not", "Unlikely", "Hate it.");
 
